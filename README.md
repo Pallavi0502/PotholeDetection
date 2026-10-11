@@ -66,6 +66,13 @@ The output contains:
 A simple GUI was developed using Tkinter.
 
 The user can select a road image, and the application displays the detected potholes along with their confidence scores.
+### Application Interface
+
+![Pothole Detection Application](App_screenshot.png)
+
+### Pothole Detection Results
+
+![YOLOv8 Pothole Detection Results](Detection_result.png)
 
 ## 9. Project Structure
 
